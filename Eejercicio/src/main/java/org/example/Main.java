@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        Actividad_inicial actividad_inical = new Actividad_inicial();
-        actividad_inical ejecuter();
+        Ejercicio1 ejercicio1 = new Ejercicio1();
+        ejercicio1.ejecuter();
     }
 }
