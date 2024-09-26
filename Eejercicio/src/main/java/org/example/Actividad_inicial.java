@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Actividad_inicial {
 
-        public void ejecuter() {
+        public static void ejecuter() {
             System.out.println("¿Como te llamas?");
             Scanner entrada = new Scanner(System.in);
             String nombre = entrada.next();
@@ -22,6 +22,8 @@ public class Actividad_inicial {
 
                 System.out.println("Introduce otro número");
                 numero2 = entrada.nextInt();
+
+
 
                 if (número == 0 || numero2 == 0) {
                     System.out.println("ERROR. Un sumando no puede ser 0.");}

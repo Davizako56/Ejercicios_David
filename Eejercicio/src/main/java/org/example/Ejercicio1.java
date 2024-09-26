@@ -8,7 +8,7 @@ public class Ejercicio1 {
         System.out.println("Introduce un número... ");
         Scanner entrada = new Scanner(System.in);
 
-        int numero = entrada.nextInt();;
+        int numero = entrada.nextInt();
 
         if (numero == 0) {
             System.out.println("El numero es 0");
