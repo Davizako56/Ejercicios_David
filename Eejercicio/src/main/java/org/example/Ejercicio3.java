@@ -1,5 +1,5 @@
 package org.example;
-import java.util.Scanner
+import java.util.Scanner;
 public class Ejercicio3 {
     public void ejecuter() {
         System.out.print("Introduce un numero...");
