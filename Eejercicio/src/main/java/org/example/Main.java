@@ -5,7 +5,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        Unidad2ejr1 unidad2ejr1 = new Unidad2ejr1();
-        Unidad2ejr1.ejecuter();
+        Unidad2ejr2 unidad2ejr2 = new Unidad2ejr2();
+        Unidad2ejr2.ejecuter();
     }
 }

@@ -7,7 +7,7 @@ public class Unidad2ejr1 {
     public static void ejecuter() {
         Scanner entrada = new Scanner(System.in);
 
-        System.out.println("Introduce una palabra o frase");
+        System.out.println("Introduce una palabra o frase.");
         String frase = entrada.nextLine();
         int largo = frase.length();
         System.out.println("La longitud del texto es: " + largo + ".");
