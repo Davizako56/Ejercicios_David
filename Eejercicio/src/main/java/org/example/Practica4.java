@@ -11,6 +11,7 @@ public class Practica4 {
         int multiplicando = 0;
         int multiplicador = 0;
         boolean err = true;
+
         while(err == true){
             try {
                 System.out.println("Introduce el multiplicando (3 cifras):");
