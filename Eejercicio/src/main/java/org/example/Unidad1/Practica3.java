@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Unidad1;
 import java.util.Scanner;
 public class Practica3 {
     public static void main(String[] args) {

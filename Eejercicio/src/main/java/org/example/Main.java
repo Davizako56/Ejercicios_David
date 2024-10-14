@@ -1,11 +1,14 @@
 package org.example;
 
+import org.example.Unidad2.Excepciones;
+import org.example.Unidad2.Und2Practica1;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
 
-        Unidad2ejr5 unidad2ejr3 = new Unidad2ejr5();
-        Unidad2ejr5.ejecuter();
+        Und2Practica1 und2practica1 = new Und2Practica1();
+        Und2Practica1.ejecuter();
     }
 }

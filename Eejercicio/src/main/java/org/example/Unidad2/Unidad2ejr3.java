@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Unidad2;
 import java.util.Scanner;
 
 public class Unidad2ejr3 {
