@@ -61,7 +61,7 @@ public class Calculadora {
                     break;
 
                 case "/":
-                    int i4 = op1 / op2;
+                    double i4 = (double) op1 / op2;
                     System.out.println("El resultado es: " + i4 + ".");
                     break;
                 default:
