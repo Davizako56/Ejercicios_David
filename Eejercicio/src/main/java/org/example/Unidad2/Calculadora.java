@@ -12,7 +12,7 @@ public class Calculadora {
         boolean tc = true;
         boolean tr = true;
 
-        while (tc == true) {
+        while (tc) {
             try {
                 System.out.println("Bienvenido usuario. Por favor, introduzca el primer operando...");
                 op1 = entrada.nextInt();
@@ -32,7 +32,7 @@ public class Calculadora {
             System.out.println("El resultado es: " + resultado + ".");
 
         }else{
-            while (tr == true) {
+            while (tr) {
                 try {
                     System.out.println("Introduzca el segundo operando...");
                     op2 = entrada.nextInt();
