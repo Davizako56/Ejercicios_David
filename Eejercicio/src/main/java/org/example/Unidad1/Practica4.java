@@ -3,8 +3,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Practica4 {
-    public static void main(String[] args) {
-    }
+
     public void ejecuter() {
         Scanner entrada = new Scanner(System.in);
 

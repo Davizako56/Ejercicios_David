@@ -2,8 +2,7 @@ package org.example.Unidad2;
 import java.util.Scanner;
 
 public class Und2Practica1 {
-    public static void main(String[] args) {
-    }
+
     public static void ejecuter() {
         Scanner entrada = new Scanner(System.in);
         int dd = 0;
