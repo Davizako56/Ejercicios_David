@@ -1,7 +1,4 @@
-package org.example;
-
-import org.example.Unidad2.Altura;
-import org.example.Unidad2.Calculadora;
+package org.example.Unidad2;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -9,7 +6,23 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Calculadora calculadora = new Calculadora();
-        Calculadora.ejecuter();
+        Ternario ternario = new Ternario();
+        Ternario.ejecuter();
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
