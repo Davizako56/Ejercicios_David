@@ -6,8 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        BuclesEjr4 buclesejr4 = new BuclesEjr4();
-        BuclesEjr4.ejecuter();
+        BuclesEjr5 buclesejr5 = new BuclesEjr5();
+        BuclesEjr5.ejecuter();
     }
 }
 
