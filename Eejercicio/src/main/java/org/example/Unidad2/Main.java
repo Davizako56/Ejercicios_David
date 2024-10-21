@@ -6,15 +6,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Ternario ternario = new Ternario();
-        Ternario.ejecuter();
+        BuclesEjr1 buclesejr1 = new BuclesEjr1();
+        BuclesEjr1.ejecuter();
     }
 }
-
-
-
-
-
 
 
 

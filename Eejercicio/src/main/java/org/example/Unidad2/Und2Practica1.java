@@ -27,7 +27,7 @@ public class Und2Practica1 {
                         aaaa = entrada.nextInt();
 
                         System.out.println("Tu fecha de nacimiento es " + dd + "/" + mm + "/" + aaaa + ".");
-                        int resultado = dd + mm+ aaaa;
+                        int resultado = dd + mm + aaaa;
 
                         String solucion = Integer.toString(resultado);
                         String s1 = solucion.substring(0,1);
