@@ -6,8 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Ejr1Random ejr1Random = new Ejr1Random();
-        Ejr1Random.ejecuter();
+        Ejr2Random ejr2Random = new Ejr2Random();
+        Ejr2Random.ejecuter();
     }
 }
 
