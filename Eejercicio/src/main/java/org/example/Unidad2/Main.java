@@ -6,8 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        PreexamenEjr3 preexamenejr3 = new PreexamenEjr3();
-        PreexamenEjr3.ejecuter();
+        PreexamenEjr4 preexamenejr4 = new PreexamenEjr4();
+        PreexamenEjr4.ejecuter();
     }
 }
 
