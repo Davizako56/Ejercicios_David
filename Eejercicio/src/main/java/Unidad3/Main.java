@@ -8,8 +8,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        ArrayEjr2 arrayejr2 = new ArrayEjr2();
-        ArrayEjr2.ejecuter();
+        ArrayEjr3 arrayejr3 = new ArrayEjr3();
+        ArrayEjr3.ejecuter();
     }
 }
 
