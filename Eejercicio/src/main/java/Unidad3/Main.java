@@ -6,8 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Unidad3Practica1 unidad3practica1 = new Unidad3Practica1();
-        Unidad3Practica1.ejecuter();
+        SplitEjr1 splitejr1 = new SplitEjr1();
+        SplitEjr1.ejecuter();
     }
 }
 
