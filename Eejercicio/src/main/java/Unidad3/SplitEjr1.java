@@ -5,12 +5,14 @@ import java.util.Arrays;
 public class SplitEjr1 {
     public static void ejecuter() {
         Scanner entrada = new Scanner(System.in);
+
         String[] van;
         String nav;
         int[] vector = new int[7];
         int num;
         int mun = 0;
         String[] navidad = {"n", "a", "v", "i", "d", "a", "d"};
+
         System.out.println("Introduce cuntas letras quieres en la palabra navidad:");
         nav = entrada.next();
         van = nav.split(",");

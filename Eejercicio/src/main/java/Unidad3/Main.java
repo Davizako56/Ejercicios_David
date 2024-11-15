@@ -6,8 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        SplitEjr1 splitejr1 = new SplitEjr1();
-        SplitEjr1.ejecuter();
+        PruebaDsitinct pruebadsitinct = new PruebaDsitinct();
+        PruebaDsitinct.ejecuter();
     }
 }
 
