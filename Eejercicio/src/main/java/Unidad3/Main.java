@@ -6,8 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        PruebaDsitinct pruebadsitinct = new PruebaDsitinct();
-        PruebaDsitinct.ejecuter();
+        Unidad3Practica2 unidad3practica2 = new Unidad3Practica2();
+        Unidad3Practica2.ejecuter();
     }
 }
 
