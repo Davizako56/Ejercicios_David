@@ -19,8 +19,8 @@ public class Unidad3Practica2 {
             vector[i] = val;
         }
 
-        int com = random.nextInt(1,50);
         int re = random.nextInt(0, 10);
+        int com = random.nextInt(1,50);
 
         do {
             for(int i = 0; i < 6; i++) {
@@ -30,9 +30,9 @@ public class Unidad3Practica2 {
             //array = (Integer[]) Arrays.stream(vector).distinct().toArray();
         }while(Arrays.stream(vector).distinct().toArray().length < vector.length);
 
-        System.out.println(Arrays.toString(vector));
-        System.out.println("Reintegro: " + re);
-        System.out.println("Complementario: " + com);
+        do {
+            com = random.nextInt(1,50);
+        }while(Arrays.asList(vector).contains(com));
 
         System.out.println("Introduzca los datos de su boleto (nn-nn-nn-nn-nn-nn/n)");
         bot = entrada.next();
