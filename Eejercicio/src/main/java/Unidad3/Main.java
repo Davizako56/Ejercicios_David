@@ -6,8 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Unidad3Practica2 unidad3practica2 = new Unidad3Practica2();
-        Unidad3Practica2.ejecuter();
+        BuclesanidadosEjr2 buclesanidadosejr2 = new BuclesanidadosEjr2();
+        BuclesanidadosEjr2.ejecuter();
     }
 }
 
