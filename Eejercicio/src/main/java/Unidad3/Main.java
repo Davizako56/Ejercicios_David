@@ -6,8 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        MatricesEjr1 matricesejr1 = new MatricesEjr1();
-        MatricesEjr1.ejecuter();
+        MatricesEjr2 matricesejr2 = new MatricesEjr2();
+        MatricesEjr2.ejecuter();
     }
 }
 
