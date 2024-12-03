@@ -1,4 +1,4 @@
-package Unidad3;
+package org.example.Unidad3;
 import java.util.Arrays;
 
 public class PruebaDsitinct {

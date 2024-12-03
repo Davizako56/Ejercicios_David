@@ -1,4 +1,4 @@
-package Unidad3;
+package org.example.Unidad3;
 
 public class MatrizPrueba {
     public static void ejecuter() {
