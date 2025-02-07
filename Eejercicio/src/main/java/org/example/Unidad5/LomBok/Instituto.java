@@ -17,9 +17,9 @@ public class Instituto {
     @Setter
     private String direccion;
     @Setter
-    private ArrayList<Curso> cursos;
+    private ArrayList<Curso> cursos = new ArrayList<>();
     @Setter
-    private ArrayList<Estudiante> estudiantes;
+    private ArrayList<Estudiante> estudiantes = new ArrayList<>();
 
     public Instituto(String nombre) {
 
