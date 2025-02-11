@@ -38,7 +38,12 @@ public class Instituto {
 
     public void agregarEstudiante(Estudiante estudiante) {
 
+        if (estudiante != null) {
+
             estudiantes.add(estudiante);
+        }else{
+            System.out.println("Estudiante no válido");
+        }
 
     }
 
@@ -55,7 +60,12 @@ public class Instituto {
 
     public void agregarCurso(Curso curso) {
 
-        cursos.add(curso);
+        if (curso != null) {
+
+            cursos.add(curso);
+        }else{
+            System.out.println("Curso no válido");
+        }
     }
 
     public void eliminarCurso(String nombre, int horas) {
