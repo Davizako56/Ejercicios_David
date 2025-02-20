@@ -14,5 +14,12 @@ public class Concierto {
 
         System.out.println("Información del artista:");
         art1.mostrarInfo();
+
+        System.out.println();
+
+        System.out.println("Organizador:");
+
+        Organizador org1 = new Organizador("Lucas", 35, "Organizador");
+        org1.mostrarInfo();
     }
 }

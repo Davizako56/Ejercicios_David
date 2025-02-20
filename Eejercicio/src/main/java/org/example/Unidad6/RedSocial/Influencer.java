@@ -13,5 +13,8 @@ public class Influencer extends Usuario {
 
     @Override
 
-    public void 
+    public void mostrarInfo() {
+        super.mostrarInfo();
+        System.out.println("Colaboraciones: " + colaboraciones);
+    }
 }
